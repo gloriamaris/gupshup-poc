@@ -1,0 +1,19 @@
+{
+  "name": "gupshup-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloriamaris/gupshup-poc.git"
+  },
+  "author": "Monique Dingding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloriamaris/gupshup-poc/issues"
+  },
+  "homepage": "https://github.com/gloriamaris/gupshup-poc#readme"
+}
