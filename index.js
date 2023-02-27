@@ -2,7 +2,7 @@ let encrypt = text => {
   const crypto = require('crypto'); 
   const GCM_IV_LENGTH = 12;
   const GCM_TAG_LENGTH_BYTES = 16;
-  const GIVEN_KEY = "QOahfcdo98NLjYJuhP4-VKigx51NkUETsKlIu9uXZFY";
+  const GIVEN_KEY = "ANa5SIEytiwlMtJ6TlXq8-Vlq9NkCm7lHxuRCgQ-nho";
   const ALGO = "aes-256-gcm";
 
   // initialization vector
